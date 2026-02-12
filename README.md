@@ -23,8 +23,8 @@
 - ├── requirements.txt
 - ├── README.md
 - └── data/
--      └── raw/
--           └── all-data.csv
+      └── raw/
+        └── all-data.csv
 
 ## Run Locally
 
